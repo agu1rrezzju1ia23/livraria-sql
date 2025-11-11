@@ -17,7 +17,7 @@ CREATE TABLE Pedido (
 );
 
 INSERT INTO Produto (nome, preco, estoque) VALUES
-('Harry Potter, 0.99, 47),
+('Harry Potter', 0.99, 47),
 ('O Senhor dos Anéis', 1.50, 30),
 ('O Guia do Mochileiro das Galáxias', 99.00, 42);
 
